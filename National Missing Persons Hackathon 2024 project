@@ -1,0 +1,41 @@
+# National Missing Persons Hackathon 2024 - OSINT Tools and Techniques
+
+This repository showcases my work from the **National Missing Persons Hackathon 2024**, where our team proudly placed **3rd**. The hackathon focused on leveraging Open-Source Intelligence (OSINT) techniques to gather actionable insights that could assist in locating missing persons. This repository contains the tools, resources, and methodologies we used, and aims to serve as a helpful foundation for future participants or investigators in similar projects.
+
+## Objectives
+- Utilize OSINT tools to analyze publicly available data sources effectively.
+- Collaborate with a team to generate insights that could potentially aid investigations.
+- Document and provide resources to guide future participants in the application of OSINT methods.
+
+
+This structure organizes resources to assist users in setting up and utilizing OSINT tools and methodologies for their projects.
+
+## Tools & Techniques Used
+- **Python**: Used for scripting, data parsing, and analysis.
+- **Maltego**: An OSINT and forensics tool that allows for data mining and link analysis to map out complex networks of relationships.
+- **SpiderFoot**: Automated OSINT tool used to gather intelligence on IPs, domain names, emails, and other entities.
+- **Google Dorks**: Advanced search queries to find specific information indexed by Google, useful for uncovering hidden data.
+- **Public Databases**: Various public data sources, including social media and news platforms, to cross-reference information.
+
+## Key Challenges & Solutions
+During the hackathon, we encountered several challenges, such as filtering irrelevant data and navigating privacy considerations. Our solutions included:
+- **Applying targeted keywords and search filters** to enhance data relevance.
+- **Dividing research areas among team members** to improve efficiency and validate findings collaboratively.
+
+## Hackathon Highlights
+- **Placement**: 3rd Place in the National Missing Persons Hackathon 2024.
+- **Achievements**: Successfully implemented OSINT techniques to identify potential leads using a range of public data sources, demonstrating the effectiveness of a structured OSINT approach in time-sensitive scenarios.
+
+## For Future Users
+This repository is intended to support future OSINT investigations. To get started:
+1. **Consult the `docs/` folder** for detailed guidance on OSINT tools and methodologies.
+2. **Utilize the `scripts/` folder** for example scripts that can be adapted to specific data collection needs.
+3. **Review the `results/` folder** for sample insights generated from OSINT analysis.
+
+## Contributors
+- **Riya Ahuja** - [GitHub Profile](https://github.com/Riyaahuja181)
+
+## License
+This project is open source under the MIT License. For more information, see `LICENSE.md`.
+
+
